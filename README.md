@@ -200,6 +200,7 @@ Go to [Theoretical or Empirical Understanding](#F).
 | 2020   | ICLR    | [DivideMix: Learning with noisy labels as semi-supervised learning](https://openreview.net/pdf?id=HJgExaVtwr)     |  [Official (PyTorch)](https://github.com/LiJunnan1992/DivideMix)    |
 | 2021   | ICLR    | [Robust curriculum learning: from clean label detection to noisy label self-correction](https://openreview.net/pdf?id=lmTWnm3coJJ)     |  N/A    |
 | 2021   | NeurIPS | [Understanding and Improving Early Stopping for Learning with Noisy Labels](https://papers.nips.cc/paper/2021/hash/cc7e2b878868cbae992d1fb743995d8f-Abstract.html) | [Official (PyTorch)](https://github.com/tmllab/PES) |
+| 2023   | WACV    | [Instance-Dependent Noisy Label Learning via Graphical Modelling](https://openaccess.thecvf.com/content/WACV2023/html/Garg_Instance-Dependent_Noisy_Label_Learning_via_Graphical_Modelling_WACV_2023_paper.html) | [Official (PyTorch)](https://github.com/arpit2412/InstanceGM) |
 
 <a name="F"></a>
 ### [Theoretical or Empirical Understanding](#content)
