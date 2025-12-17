@@ -172,6 +172,7 @@ Go to [Theoretical or Empirical Understanding](#F).
 | 2018   | NeurIPS    |  [Co-teaching: Robust training of deep neural networks with extremely noisy labels](https://arxiv.org/pdf/1804.06872.pdf)    |  [Official (PyTorch)](https://github.com/bhanML/Co-teaching)    |
 | 2019   | ICML    | [How does disagreement help generalization against label corruption?](http://proceedings.mlr.press/v97/yu19b/yu19b.pdf)    |  [Official (PyTorch)](https://github.com/bhanML/coteaching_plus)   |
 | 2021   | CVPR    | [Jo-SRC: A Contrastive Approach for Combating Noisy Labels](https://openaccess.thecvf.com/content/CVPR2021/html/Yao_Jo-SRC_A_Contrastive_Approach_for_Combating_Noisy_Labels_CVPR_2021_paper.html) | [Official (PyTorch)](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC) |
+| 2025   | IMAVIS  | [PASS: Peer-agreement based sample selection for training with instance dependent noisy labels](https://github.com/arpit2412/PASS-NoisyLabel) | [Official (PyTorch)](https://github.com/arpit2412/PASS-NoisyLabel) |
 
 
 #### E.2. Single- or Multi-round Learning
@@ -187,6 +188,7 @@ Go to [Theoretical or Empirical Understanding](#F).
 | 2021   | ICLR    | [Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/forum?id=2VXyy9mIyU3) | [Official (PyTorch)](https://github.com/UCSC-REAL/cores)  |
 | 2021   | NeurIPS | [FINE Samples for Learning with Noisy Labels](https://papers.nips.cc/paper/2021/hash/ca91c5464e73d3066825362c3093a45f-Abstract.html) | [Official (PyTorch)](https://github.com/Kthyeon/FINE_official) |
 | 2022   | ICLR    | [Sample Selection with Uncertainty of Losses for Learning with Noisy Labels](https://openreview.net/forum?id=xENf4QUL4LW) | N/A |
+| 2024   | ECCV    | [Instance-Dependent Noisy-Label Learning with Graphical Model Based Noise-Rate Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00589.pdf) | [Official (PyTorch)](https://github.com/arpit2412/NoiseRateLearning) |
 
 
 #### E.3. Hybrid Learning
